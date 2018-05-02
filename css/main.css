@@ -3,9 +3,9 @@
 html {
     /* background-color: white; */
 
-    background:
+    background-color:#ffff;:
     /* linear-gradient(to bottom, transparent 50%,rgba(255, 255, 255, .25)50%), */
-    linear-gradient(to bottom, #77216F, #E95420);
+    /* linear-gradient(to bottom, #77216F, #E95420); */
 /* background-size: 10px 10px, 100% 100%; */
     /*background-image: linear-gradient(to bottom right, #180cac, #d054e4);*/
     color:#111111;
